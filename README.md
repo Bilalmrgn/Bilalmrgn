@@ -6,25 +6,41 @@
 
 <p align="center">
   <a href="https://medium.com/@bilal.emir.mergen" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="35" />
+    <img src="https://cdn.simpleicons.org/medium/white" height="32" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bilalmrgn/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" />
+    <img src="https://cdn.simpleicons.org/linkedin/white" height="32" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🛠 Language & Tools</h2>
+<h2 align="center">🛠 Backend & Frameworks</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,dotnet,nodejs,express,angular,html,css,bootstrap,mysql,sqlserver,mongodb,redis,rabbitmq&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,cs,js,ts&theme=dark" />
 </p>
 
 ---
 
-<h3 align="center">🧠 Architecture & Concepts</h3>
+<h2 align="center">🗄 Databases & Messaging</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb,redis,rabbitmq&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">🎨 Frontend Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">🧠 Architecture & Concepts</h2>
 
 <p align="center">
   RESTful API • GraphQL • JWT Authentication • Onion Architecture • N-Tier Architecture
