@@ -6,10 +6,11 @@
 
 <p align="center">
   <a href="https://medium.com/@bilal.emir.mergen" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="35" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bilalmrgn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" />
   </a>
 </p>
 
