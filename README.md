@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://medium.com/@bilal.emir.mergen" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" height="30" style="filter: invert(1);" />
+  <a href="https://medium.com/@bilal.emir.mergen">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bilalmrgn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="30" style="filter: invert(1);" />
+  <a href="https://www.linkedin.com/in/bilalmrgn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <h2 align="center">🛠 Backend & Frameworks</h2>
