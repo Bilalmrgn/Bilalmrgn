@@ -6,14 +6,13 @@
 
 <p align="center">
   <a href="https://medium.com/@bilal.emir.mergen" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/white" height="32" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" height="30" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bilalmrgn/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/white" height="32" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="30" style="filter: invert(1);" />
   </a>
 </p>
-
 ---
 
 <h2 align="center">🛠 Backend & Frameworks</h2>
