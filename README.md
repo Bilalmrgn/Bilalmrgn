@@ -26,7 +26,7 @@
 <h2 align="center">🗄 Databases & Messaging</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb,redis,rabbitmq&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,rabbitmq&theme=dark" />
 </p>
 
 ---
